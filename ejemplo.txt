@@ -1,5 +1,0 @@
-Este es un ejemplo para github que solo tiene una linea.
-
-Esta es la tercera linea de prueba, la linea anterior se elimino.
-
-esta es la cuarta linea.
